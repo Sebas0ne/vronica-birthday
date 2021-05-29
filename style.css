@@ -1,0 +1,110 @@
+.body-presentacion {
+    background-color: #90afc5;
+}
+
+.container {
+    position: relative;
+    margin-top: 10%;
+}
+
+.word {
+    background-color: #336b87;
+    font-family: 'Gill Sans Extrabold';
+    font-size: 100px;
+    color: #2a3132;
+    border: none;
+    border-radius: 40px 10px;
+    line-height: 2em;
+    height: 2em;
+    padding: 0 14px 0 7px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    word-wrap: break-word;
+}
+
+.word:before {
+    content: '';
+    background-color: black;
+    width: 1px;
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    right: 7px;
+}
+
+.body-sapo-verde {
+    background-color: #f4cc70;
+}
+
+.container-sapo-verde {
+    position: relative;
+    margin-top: 10%;
+}
+
+.word-sapo-verde {
+    background-color: #9a9eab;
+    font-family: 'Gill Sans Extrabold';
+    font-size: 100px;
+    color: #5d535e;
+    border: none;
+    border-radius: 40px 10px;
+    line-height: 2em;
+    height: 2em;
+    padding: 0 14px 0 7px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    word-wrap: break-word;
+}
+
+.word-sapo-verde:before {
+    content: '';
+    background-color: black;
+    width: 1px;
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    right: 7px;
+}
+
+#footer-title-cop {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+.body-saludo-especial {
+    background-color: #f1f3ce;
+}
+
+.word-saludo-especial {
+    background-color: #b38867;
+    font-family: 'Gill Sans Extrabold';
+    font-size: 100px;
+    color: #4d648d;
+    border: none;
+    border-radius: 40px 10px;
+    line-height: 2em;
+    height: 2em;
+    padding: 0 14px 0 7px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    word-wrap: break-word;
+}
+
+.word-saludo-especial:before {
+    content: '';
+    background-color: black;
+    width: 1px;
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    right: 7px;
+}
